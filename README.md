@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![github pages](https://github.com/MerlinDS/merlinds/actions/workflows/gh-pages.yml/badge.svg?branch=main)](https://github.com/MerlinDS/merlinds/actions/workflows/gh-pages.yml)
+
 <!--
 **MerlinDS/merlinds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

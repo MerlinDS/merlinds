@@ -3,12 +3,14 @@ languageCode = 'en-us'
 title = 'MerlinDS Site'
 theme = 'hello-friend'
 
+disqusShortname = 'https-merlinds-github-io'
+
 [params]
 	contentTypeName = "posts"
 	defaultTheme = "dark"
 	showMenuItems = 2
 	showReadingTime = true
-	disqusShortname = 'https-merlinds-github-io'
+	
 	
 [markup]
   [markup.highlight]
@@ -32,7 +34,6 @@ theme = 'hello-friend'
 	
 	[languages.en.params.logo]
 		logoText = "merlinds"
-		logoHomeLink = "/about"
 		
 	[languages.en.menu]
       [[languages.en.menu.main]]

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MerlinDS</title>
+    
+    
+    
+    <link>https://merlinds.github.io/</link>
+    <description>Recent content on MerlinDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Apr 2022 17:49:54 +0300</lastBuildDate>
+    
+	<atom:link href="https://merlinds.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://merlinds.github.io/about/</link>
+      <pubDate>Wed, 13 Apr 2022 20:28:01 +0300</pubDate>
+      
+      <guid>https://merlinds.github.io/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Something about me
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>https://merlinds.github.io/posts/first_post/</link>
+      <pubDate>Wed, 13 Apr 2022 17:49:54 +0300</pubDate>
+      
+      <guid>https://merlinds.github.io/posts/first_post/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://hugo-hello-friend.vercel.app/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>

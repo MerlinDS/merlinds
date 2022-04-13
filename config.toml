@@ -1,4 +1,4 @@
-baseURL = 'https://merlinds.github.io'
+baseURL = 'https://merlinds.github.io/merlinds'
 languageCode = 'en-us'
 title = 'MerlinDS Site'
 theme = 'hello-friend'
